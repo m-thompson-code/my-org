@@ -10,6 +10,7 @@
   "private": true,
   "dependencies": {},
   "devDependencies": {
+    "@bitovi-nx-workshop/canjs": "file:../bitovi-nx-workshop/dist/packages/canjs",
     "@nrwl/cli": "15.0.13",
     "@nrwl/nx-cloud": "latest",
     "@nrwl/workspace": "15.0.13",
